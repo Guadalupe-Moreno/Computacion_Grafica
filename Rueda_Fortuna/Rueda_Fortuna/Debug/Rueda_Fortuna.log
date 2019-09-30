@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\DellM4700\Desktop\GUADALUPE\Pruebas\Rueda_Fortuna\Rueda_Fortuna\figuras.h(81): warning C4101: 'theta': variable local sin referencia
+C:\Users\DellM4700\Desktop\GUADALUPE\Pruebas\Rueda_Fortuna\Rueda_Fortuna\figuras.h(81): warning C4101: 'phi': variable local sin referencia
+  Rueda_Fortuna.vcxproj -> C:\Users\DellM4700\Desktop\GUADALUPE\Pruebas\Rueda_Fortuna\Debug\Rueda_Fortuna.exe

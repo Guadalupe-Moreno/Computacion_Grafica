@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\DellM4700\ComputacionGrafica\Pruebas\Octillery\Octillery\figuras.h(81): warning C4101: 'theta': variable local sin referencia
+C:\Users\DellM4700\ComputacionGrafica\Pruebas\Octillery\Octillery\figuras.h(81): warning C4101: 'phi': variable local sin referencia
+  Textura_blanco.c
+  Textura_bola.c
+  Textura_negro.c
+  Textura_P1.c
+  Textura_piel.c
+  Textura_piso.c
+  Generando código...
+  Octillery.vcxproj -> C:\Users\DellM4700\ComputacionGrafica\Pruebas\Octillery\Debug\Octillery.exe

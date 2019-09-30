@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\DellM4700\Desktop\GUADALUPE\Pruebas\Carpa\Carpa\Carpa\figuras.h(81): warning C4101: 'theta': variable local sin referencia
+C:\Users\DellM4700\Desktop\GUADALUPE\Pruebas\Carpa\Carpa\Carpa\figuras.h(81): warning C4101: 'phi': variable local sin referencia
+  Carpa.vcxproj -> C:\Users\DellM4700\Desktop\GUADALUPE\Pruebas\Carpa\Carpa\Debug\Carpa.exe

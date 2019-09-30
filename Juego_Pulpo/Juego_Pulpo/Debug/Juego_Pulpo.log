@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\DellM4700\ComputacionGrafica\Pruebas\Juego_Pulpo\Juego_Pulpo\figuras.h(81): warning C4101: 'theta': variable local sin referencia
+C:\Users\DellM4700\ComputacionGrafica\Pruebas\Juego_Pulpo\Juego_Pulpo\figuras.h(81): warning C4101: 'phi': variable local sin referencia
+  Textura_blanco.c
+  Textura_bola.c
+  Textura_negro.c
+  Textura_P1.c
+  Textura_P2.c
+  Textura_P3.c
+  Textura_P4.c
+  Textura_P5.c
+  Textura_P6.c
+  Textura_piel.c
+  Textura_piso.c
+  Generando código...
+  Juego_Pulpo.vcxproj -> C:\Users\DellM4700\ComputacionGrafica\Pruebas\Juego_Pulpo\Debug\Juego_Pulpo.exe
