@@ -1,0 +1,20 @@
+práctica 11:
+
+
+-trabajar por parejas
+
+-probar la animación del monito
+
+-cambiar la textura de la playera del monito para que corresponda a la de su equipo de preferencia
+
+-completar la grada
+
+-agregar textura al balón y modificar su tamaño si lo desean
+
+-colocar obstáculos con primitivas en el campo o en la porteria 
+
+-completar el código a partir de los comentarios para animar el balón además del monito
+
+-realizar la animación del monito pateando el balón y la animación de este moviéndose hasta entrar a la portería
+
+-grabar escritorio con la animación y mandar junto con pdf con la portada, captura de pantalla del código y conclusiones individuales
